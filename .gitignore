@@ -1,0 +1,10 @@
+# Intellij
+.idea
+log/
+target/
+# Mac
+.DS_Store
+*.log
+metastore_db
+*.sh
+project
